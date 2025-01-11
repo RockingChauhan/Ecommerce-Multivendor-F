@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const API_URL = "ecommerce-multivendor.railway.internal";
+export const API_URL = "ecommerce-multivendor-production.up.railway.app";
 
 // change api
 
