@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const API_URL = "http://localhost:5454";
+export const API_URL = "ecommerce-multivendor.railway.internal";
 
 // change api
 
