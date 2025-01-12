@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const API_URL = "http://localhost:5454";
+export const API_URL = "https://zt6nbjxt-5454.inc1.devtunnels.ms";
 
 // change api
 
