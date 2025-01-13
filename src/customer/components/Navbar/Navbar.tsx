@@ -125,11 +125,11 @@ const Navbar = () => {
               Login
             </Button>
           )}
-
+{/* 
           <IconButton onClick={()=>navigate("/wishlist")}>
             <FavoriteBorder sx={{ fontSize: 29 }}
                 className="text-gray-700" />
-          </IconButton>
+          </IconButton> */}
 
           <IconButton onClick={() => navigate("/cart")}>
             <Badge badgeContent={cart.cart?.cartItems.length} color="primary">
